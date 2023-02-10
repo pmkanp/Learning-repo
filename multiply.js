@@ -1,4 +1,5 @@
 let multiply = (a, b)=>{
+    console.log("Hello dosto, kaise hain aaplog?");
     return a*b
 }
 
